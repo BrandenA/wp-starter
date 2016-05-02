@@ -1,0 +1,13 @@
+/*
+Theme Name: Theme name
+Author: 
+
+*/
+
+
+/* Account for the wp nav menu */
+.logged-in,
+.logged-in nav {
+    margin-top: 32px;
+}
+
